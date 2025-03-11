@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\Nyappar\Nyappar\bin\Debug\Nyappar.exe.config
+C:\Users\ADMIN\source\repos\Nyappar\Nyappar\bin\Debug\Nyappar.exe
+C:\Users\ADMIN\source\repos\Nyappar\Nyappar\bin\Debug\Nyappar.pdb
+C:\Users\ADMIN\source\repos\Nyappar\Nyappar\obj\Debug\Nyappar.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Nyappar\Nyappar\obj\Debug\Nyappar.bookdetails.resources
+C:\Users\ADMIN\source\repos\Nyappar\Nyappar\obj\Debug\Nyappar.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Nyappar\Nyappar\obj\Debug\Nyappar.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Nyappar\Nyappar\obj\Debug\Nyappar.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Nyappar\Nyappar\obj\Debug\Nyappar.exe
+C:\Users\ADMIN\source\repos\Nyappar\Nyappar\obj\Debug\Nyappar.pdb
+C:\Users\ADMIN\source\repos\Nyappar\Nyappar\obj\Debug\Nyappar.search_page.resources
